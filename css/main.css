@@ -1977,7 +1977,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff850b;
+  background: #93ffff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3058,9 +3058,4 @@ hr {
     width: auto;
     text-align: center;
   }
-}
-body {
-  background-image: url("/myblog/images/bg.jpg") no-repeat;
-  background-attachment: fixed;
-  background-size: contain;
 }
